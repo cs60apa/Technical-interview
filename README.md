@@ -6,7 +6,8 @@ Create a three-web page using Frontend stack {js, html, Reactjs, css, tailwindcs
 - About 
 - Program
 
-*This should be a responsive website both mobile and desktop*
+*This should be a responsive website both mobile and desktop should look like this one below*
+https://powerlearnproject.org/
 
 # CI/CD
 ## Your commit should be updated
