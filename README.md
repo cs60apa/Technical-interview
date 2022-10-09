@@ -12,4 +12,9 @@ Create a three-web page using Frontend stack {js, html, Reactjs, css, tailwindcs
 ## Your commit should be updated
 - take note of your work flow, as you will be accessed based on your work.
 
+# REFERENCE BELOW IS THE LINK FOLLOW THE LAYOUT OF POWER LEARN
+ https://powerlearnproject.org/
+
 *mark Sikaundi CEO & Founder @DevCircle Africa*
+
+
