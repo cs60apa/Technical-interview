@@ -15,7 +15,7 @@ https://powerlearnproject.org/
 
 # REFERENCE BELOW IS THE LINK FOLLOW THE LAYOUT OF POWER LEARN
  https://powerlearnproject.org/
-*BONUS*
+# BONUS
 - include any page of your choice
 
 *mark Sikaundi CEO & Founder @DevCircle Africa*
