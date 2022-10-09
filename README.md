@@ -4,7 +4,7 @@ Create a three-web page using Frontend stack {js, html, Reactjs, css, tailwindcs
 # Pages needed
 - Home
 - About 
-- Contact
+- Program
 
 *This should be a responsive website both mobile and desktop*
 
