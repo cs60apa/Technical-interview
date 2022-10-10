@@ -6,9 +6,7 @@ Create a WEBSITE with three page ONLY using Frontend stack {js, html, Reactjs, c
 - About 
 - Program
 
-*This should be a responsive website both mobile and desktop should look like this one 👉*
-https://powerlearnproject.org/
-
+*This should be a responsive website both mobile and desktop should look like this one 
 # CI/CD
 ## Your commit should be updated
 - take note of your work flow, as you will be accessed based on your work.
